@@ -6,6 +6,8 @@ import { RedButtonComponent} from './red-button/red-button.component';
 import { RedButtonsComponent } from './red-buttons/red-buttons.component';
 import {ViewChildComponent} from './view-child/view-child.component';
 import {PositionComponent} from './position/position.component';
+import { PrabaComponent } from './praba/praba.component';
+
 
 
 
@@ -16,6 +18,8 @@ import {PositionComponent} from './position/position.component';
     RedButtonsComponent,
     ViewChildComponent,
     PositionComponent,
+    PrabaComponent,
+  
     
   ],
   imports: [
