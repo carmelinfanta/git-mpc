@@ -6,6 +6,7 @@ import { RedButtonComponent} from './red-button/red-button.component';
 import { RedButtonsComponent } from './red-buttons/red-buttons.component';
 import {ViewChildComponent} from './view-child/view-child.component';
 import {PositionComponent} from './position/position.component';
+import { ButtonsComponent } from './buttons/buttons.component';
 
 
 
@@ -16,6 +17,7 @@ import {PositionComponent} from './position/position.component';
     RedButtonsComponent,
     ViewChildComponent,
     PositionComponent,
+    ButtonsComponent,
     
   ],
   imports: [
