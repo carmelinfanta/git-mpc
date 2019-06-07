@@ -1,0 +1,28 @@
+html{
+    background-color:pink;
+    padding:10px;
+    
+}
+
+body{
+    background-color:yellow;
+    padding:10px;
+    margin:0;
+}
+
+header{
+    background-color:purple;
+    margin:10px;
+    
+}
+
+nav{
+    background-color:green;
+    margin:10px;
+}
+
+footer{
+    background-color:red;
+    margin:10px
+    
+}

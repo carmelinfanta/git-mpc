@@ -1,0 +1,6 @@
+<h1>Buttons</h1>
+<div *ngFor = "let item of buttons" [ngStyle]='style'>
+        <input type="text" name="'Write here'">
+    <button *ngIf="item.visibility" (click)="item.click()"[ngStyle]="item.style" >{{item.title}} </button>
+    
+</div>
